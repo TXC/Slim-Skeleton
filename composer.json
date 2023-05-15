@@ -9,15 +9,6 @@
             "email": "txc@txc.se"
         }
     ],
-    "repositories": [
-        {
-            "type": "path",
-            "url": "~/PhpstormProjects/Privat/SlimLibraries/*",
-            "options": {
-                "symlink": true
-            }
-        }
-    ],
     "suggest": {
         "ext-pdo_mysql": "*",
         "ext-pdo_sqlite": "*",
