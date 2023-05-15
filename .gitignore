@@ -2,9 +2,8 @@
 .vscode/
 /coverage/
 /vendor/
-/logs/*
-!/logs/README.md
-/var/
+/var/*
+!/var/README.md
 /node_modules/
 /public/assets
 /k8s/**/*secrets.yml
